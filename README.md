@@ -368,7 +368,6 @@ If you create executable bundles (e.g., with PyInstaller) that include PsychoPy 
 
 **For open-source questions, bug reports, or collaboration:**
 - Email: epk36@pitt.edu
-- Phone: 412-607-2969
 - GitHub Issues: [Use the Issues tab for bug reports and feature requests]
 
 **For enterprise & commercial services:**
@@ -378,7 +377,7 @@ If you create executable bundles (e.g., with PyInstaller) that include PsychoPy 
 - 🎓 Training and consultation
 - 🔧 Technical support contracts
 
-Contact: epk36@pitt.edu | 412-607-2969
+Contact: epk36@pitt.edu
 
 ---
 

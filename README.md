@@ -14,7 +14,7 @@ This software suite is designed for remote cognitive testing research, specifica
 - Hardware validation (framerate stability, keyboard consistency)
 - Performance tracking under mental fatigue conditions
 
-**Key Feature:** Designed for elderly participants with large fonts, validation retry dialogs, and comprehensive error handling.
+**Key Feature:** Designed for elderly participants with large fonts, validation retry dialogs, and comprehensive error handling, also has user controlled sections ie. length of time for certain sections, number of reaction images/audio clips displayed, time between clips, etc. it is near the top of the code for easy access and edit.
 
 ---
 

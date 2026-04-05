@@ -1,4 +1,4 @@
-# Cognitive Fatigue Reaction Time Testing Suite
+# Remote Cognitive and Reaction Fatigue Battery (RCRFB)
 
 **A comprehensive PsychoPy-based assessment tool for measuring reaction time and memory performance under cognitive fatigue conditions.**
 
